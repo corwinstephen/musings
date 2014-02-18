@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'MyPrintedWritingMedium';
+    src: url('myprintedwriting.eot');
+    src: url('myprintedwriting.eot') format('embedded-opentype'),
+         url('myprintedwriting.woff') format('woff'),
+         url('myprintedwriting.ttf') format('truetype'),
+         url('myprintedwriting.svg#MyPrintedWritingMedium') format('svg');
+}

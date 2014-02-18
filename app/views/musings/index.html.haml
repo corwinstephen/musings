@@ -1,2 +1,2 @@
 - @musings.each do |musing|
-	= musing.body.strip + " "
+	= "#{musing.body.strip} - #{musing.created_at.strftime("%m/%d/%Y")} | "
